@@ -1,4 +1,4 @@
-#File Permission Task
+# File Permission Task
 1️⃣ Created the File /home/demo.txt
 * sudo touch /home/demo.txt
 - sudo → Runs the command as root (superuser) because /home might require admin privileges.
